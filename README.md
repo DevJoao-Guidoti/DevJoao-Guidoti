@@ -107,7 +107,7 @@ const joaoGuidoti = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b17?style=for-the-badge&logo=linkedin&logoColor=FFE700)](https://www.linkedin.com/in/joão-vítor-guidoti-43b8a3373/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b17?style=for-the-badge&logo=google-chrome&logoColor=FFE700)](https://devjoao-guidoti.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b17?style=for-the-badge&logo=google-chrome&logoColor=FFE700)](https://devjoao-guidoti.github.io/Portifolio-Pessoal-1.0/)
 [![Email](https://img.shields.io/badge/Email-1a1b17?style=for-the-badge&logo=gmail&logoColor=FFE700)](mailto:joaoguidoti@gmail.com)
 
 </div>
