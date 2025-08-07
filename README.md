@@ -1,123 +1,135 @@
-# <div align="center">👨‍💻 João Vitor • DevJoao-Guidoti</div>
+# 💻 João Vitor Guidoti
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Web+Full+Stack;Niterói%2C+Rio+de+Janeiro;Transformando+ideias+em+código;Sempre+aprendendo+algo+novo..." alt="Typing SVG" />
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFE700&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+João+Vitor+Guidoti;Desenvolvedor+Full+Stack;Análise+e+Desenvolvimento+de+Sistemas;Bem-vindo+ao+meu+perfil!)
+
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevJoao-Guidoti&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
-</div>
+---
 
------
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Sobre Mim**
+## 🚀 Sobre Mim
 
 ```javascript
-const joaoVitor = {
-    localização: "Niterói, Rio de Janeiro 🏖️",
-    trabalho: "Companhia Municipal de Limpeza Urbana de Niterói - CLIN",
-    contato: "joao.guidotii@gmail.com",
-    foco: ["Desenvolvimento Web", "Frontend", "Backend"],
-    aprendendo: ["React", "Node.js", "TypeScript"],
-    hobbies: ["Coding", "Coffee ☕", "Tech News", "Problem Solving"]
+const joaoGuidoti = {
+    nome: "João Vitor Guidoti",
+    area: "Análise e Desenvolvimento de Sistemas",
+    localizacao: "Rio de Janeiro, Brasil",
+    trabalho: "Estagiário de ADS - CLIN (Prefeitura de Niterói)",
+    foco: ["Desenvolvimento Web", "Back-end", "Front-end"],
+    aprendendo: ["Laravel", "JavaScript Avançado", "Metodologias Ágeis"]
 };
 ```
 
------
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **Tech Stack**
+## 🛠️ **Tecnologias & Ferramentas**
+
+<div align="center">
 
 ### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-1a1b17?style=for-the-badge&logo=html5&logoColor=FFE700)
+![CSS3](https://img.shields.io/badge/CSS3-1a1b17?style=for-the-badge&logo=css3&logoColor=FFE700)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b17?style=for-the-badge&logo=javascript&logoColor=FFE700)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1b17?style=for-the-badge&logo=bootstrap&logoColor=FFE700)
 
-<div align="center">
+### **Backend**
+![PHP](https://img.shields.io/badge/PHP-1a1b17?style=for-the-badge&logo=php&logoColor=FFE700)
+![Laravel](https://img.shields.io/badge/Laravel-1a1b17?style=for-the-badge&logo=laravel&logoColor=FFE700)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</div>
-
-### **Backend & Database**
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### **Sistemas & Ferramentas**
+![Linux](https://img.shields.io/badge/Linux-1a1b17?style=for-the-badge&logo=linux&logoColor=FFE700)
+![Git](https://img.shields.io/badge/Git-1a1b17?style=for-the-badge&logo=git&logoColor=FFE700)
+![VS Code](https://img.shields.io/badge/VS_Code-1a1b17?style=for-the-badge&logo=visual%20studio%20code&logoColor=FFE700)
 
 </div>
 
-### **Tools & Others**
+---
+
+## 📊 **Estatísticas do GitHub**
 
 <div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
------
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> **Estatísticas GitHub**
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevJoao-Guidoti&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="João Vitor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoao-Guidoti&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devjoao-guidoti&show_icons=true&count_private=true&hide_border=true&title_color=FFE700&icon_color=FFE700&text_color=b8b9b5&bg_color=1a1b17" alt="GitHub Stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoao-guidoti&layout=compact&hide_border=true&title_color=FFE700&text_color=b8b9b5&bg_color=1a1b17" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJoao-Guidoti&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevJoao-Guidoti&custom_title=João%20Vitor's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" />
-</div>
-
------
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Projetos Destacados**
-
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=DevJoao-Guidoti&repo=Portfolio-Pessoal-1.0&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://github.com/DevJoao-Guidoti/Portfolio-Pessoal-1.0)
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devjoao-guidoti&theme=dark&background=1a1b17&border=FFE700&stroke=FFE700&ring=FFE700&fire=FFE700&currStreakNum=FFE700&sideNums=FFE700&currStreakLabel=FFE700&sideLabels=b8b9b5&dates=b8b9b5)
 
 </div>
 
------
+---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> **Connect with me**
+## 🎯 **Projetos em Destaque**
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.guidotii@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joao-vitor-guidoti)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devjoao-guidoti.github.io)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao.guidoti)
+[![Meteora](https://github-readme-stats.vercel.app/api/pin/?username=devjoao-guidoti&repo=Alura-BootStrap&border_color=FFE700&bg_color=1a1b17&title_color=FFE700&text_color=b8b9b5&icon_color=FFE700)](https://github.com/devjoao-guidoti/Alura-BootStrap)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=devjoao-guidoti&repo=Alura-Portifolio&border_color=FFE700&bg_color=1a1b17&title_color=FFE700&text_color=b8b9b5&icon_color=FFE700)](https://github.com/devjoao-guidoti/Alura-Portifolio)
 
 </div>
 
------
+---
+
+## 🏆 **Certificações**
+
+- 📜 **Desenvolvimento Web** - Fundação Bradesco (2025)
+- 🐧 **Fundamentos do Linux** - Curso em Vídeo (2025)
+
+---
+
+## 💼 **Experiência Profissional**
+
+### 🏢 **Estagiário de ADS - CLIN** *(Presente)*
+*Companhia de Limpeza de Niterói - Prefeitura de Niterói*
+
+- 🌐 Desenvolvimento de intranet corporativa
+- 🔧 Suporte técnico na sede
+- 📊 Implementação de funcionalidades específicas
+- 🏛️ Modernização da infraestrutura digital
+
+---
+
+## 🌟 **Atividade de Contribuição**
 
 <div align="center">
-
-![Snake animation](https://github.com/DevJoao-Guidoti/DevJoao-Guidoti/blob/output/github-contribution-grid-snake.svg)
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devjoao-guidoti&theme=react-dark&bg_color=1a1b17&hide_border=true&border_radius=15&area=true&area_color=FFE700&title_color=FFE700&color=FFE700&line=FFE700&point=b8b9b5)
 
 </div>
 
------
+---
+
+## 📱 **Conecte-se Comigo**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevJoao-Guidoti&color=00D9FF&style=flat-square&label=Profile+Views" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b17?style=for-the-badge&logo=linkedin&logoColor=FFE700)](https://www.linkedin.com/in/joão-vítor-guidoti-43b8a3373/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1b17?style=for-the-badge&logo=google-chrome&logoColor=FFE700)](https://devjoao-guidoti.github.io/)
+[![Email](https://img.shields.io/badge/Email-1a1b17?style=for-the-badge&logo=gmail&logoColor=FFE700)](mailto:joaoguidoti@gmail.com)
+
 </div>
 
+---
+
 <div align="center">
 
-**“Clean code always looks like it was written by someone who cares.”** ✨
+### 💡 *"Sempre em busca de aprender algo novo e contribuir com a comunidade tech"*
 
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&reversal=false&textBg=false&fontColor=FFE700"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+**Obrigado pela visita!** ⭐️
+
+*Se gostou do meu perfil, não esqueça de dar uma estrela nos meus projetos!*
+
+![Visitor Count](https://profile-counter.glitch.me/devjoao-guidoti/count.svg)
 
 </div>
